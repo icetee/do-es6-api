@@ -1,0 +1,4 @@
+test/*
+test.js
+.editorconfig
+node_modules
